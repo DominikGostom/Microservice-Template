@@ -1,0 +1,1 @@
+curl --request POST --header "Content-Type: application/json" --data "{"""email""":"""dominik_gostom@proton.me""","""password""":"""my_password""","""repeatPassword""":"""my_password"""}" http://localhost:8083/hontent/register
